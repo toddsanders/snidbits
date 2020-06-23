@@ -1,4 +1,7 @@
 <?php 
+//Fisher–Yates shuffle
+//https://www.geeksforgeeks.org/shuffle-a-given-array-using-fisher-yates-shuffle-algorithm/
+
 // PHP Program to shuffle  
 // a given array 
   
